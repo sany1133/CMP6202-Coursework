@@ -9,7 +9,8 @@ This repository contains my CMP6202 AI and Machine Learning practice work.
 - Trained a first Decision Tree classifier
 - Evaluated the model using accuracy and a confusion matrix
 
-## Load data → Look at data → X and y → Split → Dummy baseline → Real model → Compare → Test once
+## Weel 2
+- Load data → Look at data → X and y → Split → Dummy baseline → Real model → Compare → Test once
 
 ## Tools
 - Python
